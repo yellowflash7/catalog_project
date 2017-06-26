@@ -8,9 +8,9 @@ How to Run
 
 * Install virtual box and vagrant
 * Clone this repository in your vagrant folder
-* Run the followin commands to start vagrant
-             * vagrant up
-             * vagrant ssh
+* Run the following commands to start vagrant  
+             1. vagrant up
+             2. vagrant ssh
 
 * Cd into your vagrant catalog_project directory
 * If you are recieving an error in port 6000 then reconfigure your vagrant file to porforward port 6000 to 7000
